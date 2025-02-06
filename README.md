@@ -109,5 +109,5 @@ This project is licensed under the **MIT License**.
 ### **Contact**
 If you have any questions, feel free to reach out:
 - **Email**: sahnjeev.kumar12@gmail.com
-- **GitHub**: [your-username](https://github.com/Skumarg20)
-- **LinkedIn**: [your-profile](https://linkedin.com/in/skumarg20)
+- **GitHub**: [Skumarg20](https://github.com/Skumarg20)
+- **LinkedIn**: [skumarg20](https://linkedin.com/in/skumarg20)
